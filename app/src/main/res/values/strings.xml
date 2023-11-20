@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">WeatherReport</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="geo_alert">Для работы данного приложения требуется доступ к геопозиции</string>
+    <string name="from_c_to_c">from %1$s°C to %2$s°C</string>
+    <string name="cloudiness_value">Cloudiness: %1$s</string>
+    <string name="humidity">Humidity: %1$s</string>
+    <string name="pressure_hpa_value">Pressure: %1$s hPa</string>
+    <string name="wind_ms_value">Wind: %1$s m/s</string>
+    <string name="temp_value">%1$s°C</string>
+    <string name="feels_like_temp_value">Feels like %1$s°C</string>
+    <string name="rainfall_value">Rainfall in 3h: %1$smm</string>
+    <string name="snowfall_value">Snowfall in 3h: %1$smm</string>
+    <string name="icon_url">https://openweathermap.org/img/wn/%1$s@2x.png</string>
+    <string name="no_internet_connection">No connection to the server. Check your internet connection and restart the app</string>
+    <string name="not_permissions">Permissions are required for the app to work. Agree in setting and restart</string>
+    <string name="location_not_found">Location is not determined. Turn on GPS and restart the app</string>
+    <string name="location_value">Location: %1$s</string>
+    <!--    <string name="humidity_value">Humidity: %$s%</string>-->
+</resources>
